@@ -13,7 +13,7 @@ export default function Home({}: Props) {
           <p className="lg:text-8xl md:text-6xl text-5xl">MAHATMA</p>
         </div>
         <div className="flex justify-end">
-          <p className="lg:text-8xl md:text-6xl text-5xl mt-4">GHADI</p>
+          <p className="lg:text-8xl md:text-6xl text-5xl mt-4">GANDHI</p>
         </div>
         <div className="flex justify-end items-end">
           <span className="md:text-[40px] text-[28px]">1948</span>
